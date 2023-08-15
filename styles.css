@@ -18,3 +18,8 @@ h1, h2, h3, h4, p{
 h2, h4 {
     background: #EFB0C9;
 }
+
+#header{
+    display: flex;
+    
+}
