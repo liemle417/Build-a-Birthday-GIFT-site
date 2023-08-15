@@ -14,3 +14,7 @@ h1, h2, h3, h4, p{
     border-radius: 50%;
     border: 6px solid #EFB0C9;
 }
+
+h2, h4 {
+    background: #EFB0C9;
+}
