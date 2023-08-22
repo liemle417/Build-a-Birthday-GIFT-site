@@ -16,7 +16,11 @@ h1, h2, h3, h4, p {
     margin-bottom: 10px;
 }
 
-#bday-age, #bday-date {
+#bday-age{
+    background: #EFB0C9;
+} 
+
+#bday-date {
     background: #EFB0C9;
 }
 
